@@ -10,17 +10,12 @@
 
     "atac.paired_end" : true,
 
-    "atac.fastqs_rep1_R1" : [ "rep1_R1_L1.fastq.gz", "rep1_R1_L2.fastq.gz", "rep1_R1_L3.fastq.gz" ],
-    "atac.fastqs_rep1_R2" : [ "rep1_R2_L1.fastq.gz", "rep1_R2_L2.fastq.gz", "rep1_R2_L3.fastq.gz" ],
-    "atac.fastqs_rep2_R1" : [ "rep2_R1_L1.fastq.gz", "rep2_R1_L2.fastq.gz" ],
-    "atac.fastqs_rep2_R2" : [ "rep2_R2_L1.fastq.gz", "rep2_R2_L2.fastq.gz" ],
+    "atac.fastqs_rep1_R1" : [ "ENCFF669NBQ.fastq.gz", "ENCFF821QXU.fastq.gz"],
+    "atac.fastqs_rep1_R2" : [ "ENCFF052OOX.fastq.gz", "ENCFF094HUX.fastq.gz"],
+    "atac.fastqs_rep2_R1" : [ "ENCFF252CFC.fastq.gz", "ENCFF484NRB.fastq.gz"],
+    "atac.fastqs_rep2_R2" : [ "ENCFF984HLZ.fastq.gz", "ENCFF237GHJ.fastq.gz"],
 
-    "atac.auto_detect_adapter" : false,
-    "atac.adapter" : "AATTCCGG",
-    "atac.adapters_rep1_R1" : [ "AATTCCGG", "AATTCCGG", "AATTCCGG" ],
-    "atac.adapters_rep1_R2" : [ "AATTCCGG", "AATTCCGG" ],
-    "atac.adapters_rep2_R1" : [ "AATTCCGG", "AATTCCGG", "AATTCCGG" ],
-    "atac.adapters_rep2_R2" : [ "AATTCCGG", "AATTCCGG" ],
+    "atac.auto_detect_adapter" : true,
 
     "atac.multimapping" : 4
 }
