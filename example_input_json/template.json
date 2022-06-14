@@ -6,7 +6,7 @@
     "atac.align_only" : false,
     "atac.true_rep_only" : false,
 
-    "atac.genome_tsv" : "/global/home/users/sergiomar10/ecode_raw/hg38.tsv",
+    "atac.genome_tsv" : "/costellolab/data3/sermare/hg_38/hg38.tsv",
 
     "atac.paired_end" : true,
 
