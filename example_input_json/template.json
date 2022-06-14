@@ -10,10 +10,10 @@
 
     "atac.paired_end" : true,
 
-    "atac.fastqs_rep1_R1" : [ "ENCFF669NBQ.fastq.gz", "ENCFF821QXU.fastq.gz"],
-    "atac.fastqs_rep1_R2" : [ "ENCFF052OOX.fastq.gz", "ENCFF094HUX.fastq.gz"],
-    "atac.fastqs_rep2_R1" : [ "ENCFF252CFC.fastq.gz", "ENCFF484NRB.fastq.gz"],
-    "atac.fastqs_rep2_R2" : [ "ENCFF984HLZ.fastq.gz", "ENCFF237GHJ.fastq.gz"],
+    "atac.fastqs_rep1_R1" : [ "1A_S16_L003_R1_001.fastq.gz", "1A_S16_L003_R2_001.fastq.gz"],
+    "atac.fastqs_rep1_R2" : [ "1B_S24_L003_R1_001.fastq.gz", "1B_S24_L003_R2_001.fastq.gz"],
+    "atac.fastqs_rep2_R1" : [ "2A_S17_L003_R1_001.fastq.gz", "2A_S17_L003_R2_001.fastq.gz"],
+    "atac.fastqs_rep2_R2" : [ "2B_S17_L003_R1_001.fastq.gz", "2B_S17_L003_R2_001.fastq.gz"],
 
     "atac.auto_detect_adapter" : true,
 
