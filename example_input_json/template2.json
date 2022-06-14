@@ -1,0 +1,19 @@
+{
+    "atac.title" : "Example (paired end)",
+    "atac.description" : "This is a template input JSON for paired ended sample.",
+
+    "atac.pipeline_type" : "atac",
+    "atac.align_only" : false,
+    "atac.true_rep_only" : false,
+
+    "atac.genome_tsv" : "/clusterfs/nilah/sergio/genome/hg38.tsv",
+
+    "atac.paired_end" : true,
+
+    "atac.fastqs_rep1_R1" : [ "ENCFF669NBQ.fastq.gz", "ENCFF821QXU.fastq.gz"],
+    "atac.fastqs_rep1_R2" : [ "ENCFF052OOX.fastq.gz", "ENCFF094HUX.fastq.gz"],
+
+    "atac.auto_detect_adapter" : true,
+
+    "atac.multimapping" : 4
+}
