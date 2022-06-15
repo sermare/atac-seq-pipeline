@@ -6,7 +6,7 @@
     "atac.align_only" : false,
     "atac.true_rep_only" : false,
 
-    "atac.genome_tsv" : "/costellolab/data3/sermare/genome_hg19/hg19.tsv",
+    "atac.genome_tsv" : "/costellolab/data3/sermare/gen_hg19/hg19.tsv",
 
     "atac.paired_end" : true,
 
